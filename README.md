@@ -27,11 +27,6 @@ PreCare/
 ├── images/
 │ └── [All used images/icons]
 └── README.md
-
-yaml
-Copy
-Edit
-
 ---
 
 ## 🖼️ Screenshots
