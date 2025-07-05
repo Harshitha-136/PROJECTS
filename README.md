@@ -28,6 +28,16 @@ PreCare/
 │ └── [All used images/icons]
 └── README.md
 
+yaml
+Copy
+Edit
+
+---
+
+## 🖼️ Screenshots
+
+> *(Add screenshots of homepage, services page, etc. here if available)*
+
 ---
 
 ## 📦 Technologies Used
