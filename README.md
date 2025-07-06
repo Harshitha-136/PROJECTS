@@ -22,21 +22,9 @@
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of login page, dashboard, appointment form, and record viewer here.
-
----
-
 ## 📂 Folder Structure
 
-PRE-CARE/
-├── css/
-├── js/
-├── php/
-├── images/
-├── db/ (Database scripts)
-└── index.html
+![image](https://github.com/user-attachments/assets/712fe546-1c5f-4dd5-b54a-fb4769a70391)
 
 
 ---
