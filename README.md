@@ -24,7 +24,7 @@
 
 ## 📂 Folder Structure
 
-![image](https://github.com/user-attachments/assets/712fe546-1c5f-4dd5-b54a-fb4769a70391)
+![image](https://github.com/user-attachments/assets/ae3cc651-710f-4d6b-bd20-6a9c65c10291)
 
 
 ---
